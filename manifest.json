@@ -1,11 +1,11 @@
 {
-    "name": "Shopper",
-    "short_name": "shopper",
+    "name": "test_sale",
+    "short_name": "sale",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new shopper project.",
+    "description": "A new project for testing sale.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
